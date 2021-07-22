@@ -1,5 +1,7 @@
 # Frontend Mentor - Ping coming soon page
 
+## Url: [https://pezemiwe.github.io/ping-coming-soon-page-master/](https://pezemiwe.github.io/ping-coming-soon-page-master/)
+
 ![Design preview for the Ping coming soon page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
